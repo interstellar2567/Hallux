@@ -21,14 +21,9 @@
 
 ---
 
-## 👥 Team: Idiotics
+## 👥 Team: Runtime Rebels
 
-| Name | Role | GitHub |
-|------|------|--------|
-| **Ayush Raj Chourasia** | Full Stack Lead | [@Ayush-Raj-Chourasia](https://github.com/Ayush-Raj-Chourasia) |
-| **Tribhuwan Singh** | Backend Developer | [@Tribhuwan-singh](https://github.com/Tribhuwansingh2023) |
-| **Surajit Sahoo** | AI/ML Engineer | [@Surajit-sahoo](https://github.com/Surajit00007) |
-| **Prakruti Srichandan** | Frontend Developer | [@Prakruti-srichandan](https://github.com/interstellar2567) |
+
 
 </div>
 
