@@ -1,0 +1,66 @@
+{
+  "citation": "Brown et al. (2020), 'Language Models are Few-Shot Learners', arXiv:2005.14165",
+  "status": "suspicious",
+  "confidence": 25.0,
+  "verification_layers": {
+    "url_validation": {
+      "status": "skipped",
+      "details": "No URLs found in citation",
+      "confidence": null,
+      "metadata": null
+    },
+    "metadata_check": {
+      "status": "failed",
+      "details": "arXiv ID not found (Status: 301)",
+      "confidence": 0.0,
+      "metadata": {
+        "arxiv_id": "2005.14165"
+      }
+    },
+    "content_verification": {
+      "status": "skipped",
+      "details": "No URL or context provided for content verification",
+      "confidence": null,
+      "metadata": null
+    },
+    "ai_scoring": {
+      "status": "warning",
+      "details": "AI analysis error: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "confidence": 0.5,
+      "metadata": {
+        "error": "Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+        "temporal_check": {
+          "passed": true,
+          "confidence": 0.9,
+          "flags": [],
+          "reason": "\u2705 Temporal consistency verified"
+        }
+      }
+    },
+    "citation_graph": {
+      "status": "skipped",
+      "details": "No DOI found for citation graph analysis",
+      "confidence": null,
+      "metadata": null
+    }
+  },
+  "ai_reasoning": "This citation is suspicious with 25.0% confidence because:\n\n  \u274c Metadata verification failed\n\nOverall Assessment: This citation has some red flags. Manual verification recommended.",
+  "suggestions": [
+    {
+      "title": "Example Alternative Paper",
+      "authors": [
+        "Smith, J.",
+        "Doe, A."
+      ],
+      "year": 2023,
+      "doi": "10.1234/example",
+      "url": "https://example.com/paper",
+      "confidence": 0.85,
+      "reason": "Similar topic and methodology"
+    }
+  ],
+  "metadata": {
+    "processing_time_ms": 1873,
+    "timestamp": "2026-01-04T00:15:05.101956"
+  }
+}

@@ -1,0 +1,68 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Database
+sqlalchemy==2.0.25
+alembic==1.13.1
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+
+# Redis
+redis==5.0.1
+hiredis==2.3.2
+
+# AI & NLP
+openai==1.10.0
+google-generativeai==0.3.2
+anthropic==0.8.1
+spacy==3.7.2
+sentence-transformers==2.3.1
+
+# HTTP & Web Scraping
+httpx==0.26.0
+aiohttp==3.9.1
+beautifulsoup4==4.12.3
+lxml==5.1.0
+playwright==1.41.0
+
+# External APIs
+crossref-commons==0.0.7
+arxiv==2.1.0
+scholarly==1.7.11
+
+# Utilities
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+pyjwt==2.8.0
+
+# Document Processing & OCR
+PyPDF2==3.0.1
+python-docx==1.1.0
+pdf2image==1.17.0
+Pillow==10.2.0
+pytesseract==0.3.10
+python-magic==0.4.27
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+dateparser==1.2.0
+
+# Validation & Serialization
+validators==0.22.0
+python-dateutil==2.8.2
+
+# Monitoring & Logging
+loguru==0.7.2
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+
+# Production server for Azure
+gunicorn==21.2.0
