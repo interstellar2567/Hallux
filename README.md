@@ -6,8 +6,8 @@
 
 **Making AI Trustworthy, One Citation at a Time.**
 
-### 🏆 ByteQuest 2026 Hackathon Submission
-**GFG Campus Body RBU | 3-4 January 2026**
+### 🏆 Synchronize 2027 Hackathon Submission
+
 
 [![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-success?style=for-the-badge)](https://hallux-ai.vercel.app)
 [![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](VIDEO_SCRIPT.md)
@@ -48,21 +48,6 @@ Visit **[hallux-ai.vercel.app](https://hallux-three.vercel.app/)** to try it now
 
 ### Local Development
 
-```bash
-# Clone repository
-git clone https://github.com/ByteQuest-2025/GFGBQ-Team-idiotics.git
-cd GFGBQ-Team-idiotics
-
-# Backend setup
-cd backend
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-
-# Frontend setup (new terminal)
-cd frontend
-npm install
-npm run dev
-```
 
 Visit `http://localhost:3000` for frontend and `http://localhost:8000/docs` for API docs.
 
@@ -379,9 +364,8 @@ Full API documentation: `http://localhost:8000/docs`
 This project was built in **24 hours** for the **ByteQuest Hackathon** (January 3-4, 2026) organized by GFG Campus Body RBU.
 
 ### Team Hallux
-- **Built by**: Team Hallux
-- **University**: Ramdeobaba University
-- **Hackathon**: ByteQuest 2026
+- **Built by**: Team Runtime Rebels
+- **Hackathon**: Synchronize 2027
 - **Problem Statement**: AI Hallucination and Citation Verification System
 
 ### Judging Criteria Alignment
@@ -482,7 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **ByteQuest 2026** - GFG Campus Body RBU for organizing this amazing hackathon
+
 - **OpenAI** - GPT-4 API for AI-powered citation analysis
 - **Google** - Gemini Pro for additional AI validation
 - **Crossref, arXiv, OpenAlex** - Citation metadata APIs
@@ -490,57 +474,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
 
-**Team Idiotics**
-- GitHub: [@ByteQuest-2025/GFGBQ-Team-idiotics](https://github.com/ByteQuest-2025/GFGBQ-Team-idiotics)
-- Issues: [Report a bug](https://github.com/ByteQuest-2025/GFGBQ-Team-idiotics/issues)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Team Idiotics**
+**Made with ❤️ by Team Runtime Rebels**
 
-**ByteQuest 2026 | GFG Campus Body RBU**
+
 
 [![Star on GitHub](https://img.shields.io/github/stars/ByteQuest-2025/GFGBQ-Team-idiotics?style=social)](https://github.com/ByteQuest-2025/GFGBQ-Team-idiotics)
 
 </div>
 
-# Open a Pull Request
-```
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **ByteQuest Hackathon** - For the opportunity
-- **GFG Campus Body RBU** - For organizing
-- **Crossref, arXiv, OpenAlex** - For their amazing APIs
-- **OpenAI & Google** - For AI capabilities
-- **Open Source Community** - For the tools we built upon
-
----
-
-## 📞 Contact
-
-- **Project Website**: [hallux.vercel.app](https://hallux.vercel.app) (coming soon)
-- **Demo Video**: [YouTube](https://youtube.com/watch?v=...) (coming soon)
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/hallux/issues)
-- **Email**: team@hallux.dev
-
----
-
-<div align="center">
-
-**🚀 Making AI Trustworthy, One Citation at a Time. 🚀**
+, One Citation at a Time. 🚀**
 
 [Try Hallux](https://hallux.vercel.app) • [View Demo](https://youtube.com/watch?v=...) • [Read Docs](https://hallux.vercel.app/docs)
 
